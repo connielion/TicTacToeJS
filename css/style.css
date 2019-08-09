@@ -1,3 +1,8 @@
+.title {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
 td {
     border: 2px solid #333;
     height: 100px;
@@ -14,7 +19,7 @@ table {
     position: absolute;
     left: 50%;
     margin-left: -155px;
-    top: 50px;
+    top: 100px;
 }
 
 table tr:first-child td {
